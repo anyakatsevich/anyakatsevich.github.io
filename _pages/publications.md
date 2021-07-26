@@ -9,7 +9,7 @@ Statistics
 -======
 
 
-- A. Katsevich, A. Bandeira. *Likelihood Maximization and Moment Matching in Low SNR Gaussian Mixture Models*. Communications on Pure and Applied Mathematics, 2020. ([paper](https://arxiv.org/abs/2006.15202)
+- A. Katsevich, A. Bandeira. *Likelihood Maximization and Moment Matching in Low SNR Gaussian Mixture Models*. Communications on Pure and Applied Mathematics, 2020. [paper](https://arxiv.org/abs/2006.15202)
 
 Genetics and genomics
 -======
