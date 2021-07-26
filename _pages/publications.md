@@ -17,3 +17,4 @@ Published
 -======
 - A. Katsevich, A. Bandeira. *Likelihood Maximization and Moment Matching in Low SNR Gaussian Mixture Models*. To appear in Communications on Pure and Applied Mathematics, 2020. [paper](https://arxiv.org/abs/2006.15202)
 - Yuan Gao, Anya E. Katsevich, Jian-Guo Liu, Jianfeng Lu, Jeremy L. Marzuola. *Analysis of a fourth order exponential PDE arising from a crystal surface jump process with Metropolis-type transition rates.* To appear in Pure and Applied Analysis, 2020. [paper](https://arxiv.org/abs/2003.07236)
+- A. Katsevich, P. Mikusinski. *Order in Spaces of Pseudoquotients*. Topology Proceedings, 2014. [DOI](http://topology.nipissingu.ca/tp/reprints/v44/tp44003.pdf)
