@@ -10,7 +10,7 @@ redirect_from:
 
 About me
 ======
-#<img src="/images/test-tube-icon.png" align="right">
+[//]: # (This may be the most platform independent comment) <img src="/images/test-tube-icon.png" align="right">
 
 I'm a PhD student at the [Courant Institute](https://math.nyu.edu/dynamic/).  
 
