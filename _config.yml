@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Anya Katsevich"
-  avatar           : "websitepic.jpg"
-  bio              : "Assistant Professor at<br><a style='color: black;' href='https://statistics.wharton.upenn.edu/'>Wharton Statistics Department</a>"
-  location         : "Philadelphia, PA"
-  cv               : "https://ekatsevi.github.io/files/CV_Eugene_Katsevich.pdf"
+  avatar           : "websitepic.jpeg"
+  bio              : "PhD Student at<br><a style='color: black;' href='https://math.nyu.edu/dynamic/'>Courant Institute</a>"
+  location         : "New York, NY"
+  cv               : #"https://ekatsevi.github.io/files/CV_Eugene_Katsevich.pdf"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=xC13Kb4AAAAJ&hl=en"
-  email            : "ekatsevi@wharton.upenn.edu"
+  googlescholar    : #"https://scholar.google.com/citations?user=xC13Kb4AAAAJ&hl=en"
+  email            : "katsevich@cims.nyu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
