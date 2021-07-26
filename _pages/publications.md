@@ -5,14 +5,15 @@ permalink: /publications/
 author_profile: true
 ---
 
-Statistics
+In Preparation
 -======
 
 
+Submitted
+-======
+- A. Katsevich. *The Local Equilibrium State of a Crystal Surface Jump Process in the Rough Scaling Regime.* [paper](https://arxiv.org/abs/2106.04652)
+
+Published
+-======
 - A. Katsevich, A. Bandeira. *Likelihood Maximization and Moment Matching in Low SNR Gaussian Mixture Models*. To appear in Communications on Pure and Applied Mathematics, 2020. [paper](https://arxiv.org/abs/2006.15202)
-
-Genetics and genomics
--======
-
-
-- J. Zhu, Q. Zhao, E. Katsevich, C. Sabatti. *Exploratory Gene Ontology Analysis with Interactive Visualization*. Nature Scientific Reports, 2019. ([paper](https://www.nature.com/articles/s41598-019-42178-x), [website](http://aegis.stanford.edu/))
+- Yuan Gao, Anya E. Katsevich, Jian-Guo Liu, Jianfeng Lu, Jeremy L. Marzuola. *Analysis of a fourth order exponential PDE arising from a crystal surface jump process with Metropolis-type transition rates.* To appear in Pure and Applied Analysis, 2020. [paper](https://arxiv.org/abs/2003.07236)
