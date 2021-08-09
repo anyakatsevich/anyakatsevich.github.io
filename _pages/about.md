@@ -12,4 +12,4 @@ About me
 ======
 
 
-I'm a PhD student at the [Courant Institute](https://math.nyu.edu/dynamic/).  
+I'm a mathematics PhD candidate at the [Courant Institute](https://math.nyu.edu/dynamic/) at New York University. 
