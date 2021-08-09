@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Anya Katsevich"
   avatar           : "websitepic.jpeg"
-  bio              : "PhD Student at<br><a style='color: black;' href='https://math.nyu.edu/dynamic/'>Courant Institute</a>"
+  bio              : "PhD Student at the <br><a style='color: black;' href='https://math.nyu.edu/dynamic/'>Courant Institute</a>"
   location         : "New York, NY"
   cv               : #"https://anyakatsevich.github.io/files/CV_Anya_Katsevich.pdf"
   employer         :
