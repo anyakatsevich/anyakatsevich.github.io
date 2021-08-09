@@ -3,6 +3,4 @@ main:
   - title: "Publications"
     url: /publications/
   - title: "CV"
-    url: /CV/
-  - title: "Another Page"
     url: https://anyakatsevich.github.io/files/CV_Anya_Katsevich.pdf
