@@ -16,7 +16,7 @@ Hi! I'm a math PhD candidate at New York University's [Courant Institute](https:
 
 <details>
   <summary><strong> The Continuum Limit of Interacting Particle Systems</strong> </summary>
-Together with <a href="https://cims.nyu.edu/~weare/">Jonathan Weare</a> (my advisor at Courant), [Jeremy Marzuola](https://marzuola.web.unc.edu/) at UNC Chapel Hill, and other collaborators, I have been studying interacting particle system models for particle diffusion on a crystal surface. The overarching question is the following: given a stochastic process governing this diffusion on a microscopic level, can we derive an equation for the collective, macroscopic motion of particles by "zooming out" on this microscopic dynamics? We have approached this problem using a blend of numerical simulation and probabilistic analysis. 
+Together with <a href="https://cims.nyu.edu/~weare/">Jonathan Weare</a> (my advisor at Courant), <a href="https://marzuola.web.unc.edu/">Jeremy Marzuola</a> at UNC Chapel Hill, and other collaborators, I have been studying interacting particle system models for particle diffusion on a crystal surface. The overarching question is the following: given a stochastic process governing this diffusion on a microscopic level, can we derive an equation for the collective, macroscopic motion of particles by "zooming out" on this microscopic dynamics? We have approached this problem using a blend of numerical simulation and probabilistic analysis. 
  </details>
  <img src="https://anyakatsevich.github.io/images/direction1_2.png"
      alt="From microscopic to macroscopic"
