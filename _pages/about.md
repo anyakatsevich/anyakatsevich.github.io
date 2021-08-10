@@ -31,8 +31,9 @@ Together with <a href="https://cims.nyu.edu/~weare/">Jonathan Weare</a> (my advi
      alt="EM trajectory moving along moment level sets"
      style="height:350px;" />
 <br>
-<details>
  <strong>Low SNR Gaussian Mixture Models</strong><br>
+<details>
+
   <summary>Click here for more</summary>
   <br>
   My second research direction is in the mathematics of data science. <a href="https://people.math.ethz.ch/~abandeira/">Afonso Bandeira</a> (my second advisor, now at ETH) and I study statistical inference for Gaussian mixture models in the regime of vanishing separation between mixture centers. This regime is of particular interest in applications such as cryo-electron microscopy, in which the mixture centers are known to enjoy additional structure: they are related to each other by the action of a group. We have been exploring the surprising intimate connection between log likelihood maximization algorithms such as EM, and the method of moments, in this regime. 
