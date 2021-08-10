@@ -17,7 +17,7 @@ Hi! I'm a math PhD candidate at New York University's [Courant Institute](https:
  <img src="https://anyakatsevich.github.io/images/direction1_2.png"
      alt="From microscopic to macroscopic"
      style="height:300px;" />    
-<br> 
+
 <details>
 
   <summary><strong> The Continuum Limit of Interacting Particle Systems</strong> </summary>
