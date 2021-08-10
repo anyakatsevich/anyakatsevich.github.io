@@ -14,7 +14,7 @@ About me
 
 Hi! I'm a math PhD candidate at New York University's [Courant Institute](https://math.nyu.edu/dynamic/). I am interested in the application of probability and stochastic analysis to diverse problems. So far, this interest has taken me in two research directions. <br>
 
-### <strong> The Continuum Limit of Interacting Particle Systems</strong><br>
+## <strong> The Continuum Limit of Interacting Particle Systems</strong><br>
 
  <img src="https://anyakatsevich.github.io/images/direction1_2.png"
      alt="From microscopic to macroscopic"
@@ -28,7 +28,7 @@ Together with <a href="https://cims.nyu.edu/~weare/">Jonathan Weare</a> (my advi
  </details>
  
  
-###  <strong>Low SNR Gaussian Mixtures</strong><br>
+##  <strong>Low SNR Gaussian Mixture Models</strong><br>
   <img src="https://anyakatsevich.github.io/images/GMM_demo.png"
      alt="EM trajectory moving along moment level sets"
      style="height:350px;" />
