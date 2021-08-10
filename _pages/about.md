@@ -23,4 +23,4 @@ My second research direction is in the mathematics of data science. [Afonso Band
 
 <img src="https://anyakatsevich.github.io/images/EM_demo_2.png"
      alt="EM trajectory moving along moment level sets"
-     style="height:350px;" />
+     style="height:400px;" />
