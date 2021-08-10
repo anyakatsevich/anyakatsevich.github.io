@@ -12,7 +12,7 @@ About me
 ======
 
 
-Hello! I'm a math PhD candidate at New York University's [Courant Institute](https://math.nyu.edu/dynamic/). I am interested in the application of probability and stochastic analysis to diverse problems. So far, this interest has taken me in two research directions. Together with [Jonathan Weare](https://cims.nyu.edu/~weare/) (my advisor at Courant), [Jeremy Marzuola](https://marzuola.web.unc.edu/) at UNC Chapel Hill, and other collaborators, I have been studying interacting particle system models for particle diffusion on a crystal surface. The overarching question is the following: given a stochastic process governing this diffusion on a microscopic level, can we derive an equation for the collective, macroscopic motion of particles by "zooming out" on this microscopic dynamics? We have approached this problem using a blend of numerical simulation and probabilistic analysis. 
+Hi! I'm a math PhD candidate at New York University's [Courant Institute](https://math.nyu.edu/dynamic/). I am interested in the application of probability and stochastic analysis to diverse problems. So far, this interest has taken me in two research directions. Together with [Jonathan Weare](https://cims.nyu.edu/~weare/) (my advisor at Courant), [Jeremy Marzuola](https://marzuola.web.unc.edu/) at UNC Chapel Hill, and other collaborators, I have been studying interacting particle system models for particle diffusion on a crystal surface. The overarching question is the following: given a stochastic process governing this diffusion on a microscopic level, can we derive an equation for the collective, macroscopic motion of particles by "zooming out" on this microscopic dynamics? We have approached this problem using a blend of numerical simulation and probabilistic analysis. 
 
 
 <img src="https://anyakatsevich.github.io/images/direction1_2.png"
@@ -23,4 +23,4 @@ My second research direction is in the mathematics of data science. [Afonso Band
 
 <img src="https://anyakatsevich.github.io/images/EM_demo_2.png"
      alt="EM trajectory moving along moment level sets"
-     style="float: left; margin-right: 10px;" />
+     style="height:350px;" />
