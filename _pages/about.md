@@ -27,7 +27,7 @@ Together with <a href="https://cims.nyu.edu/~weare/">Jonathan Weare</a> (my advi
  <br>
   <img src="https://anyakatsevich.github.io/images/GMM_demo.png"
      alt="EM trajectory moving along moment level sets"
-     style="height:400px;" />
+     style="height:350px;" />
 <br>
 <details>
  
