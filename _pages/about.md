@@ -12,7 +12,7 @@ About me
 ======
 
 
-Hi! I'm a math PhD candidate at New York University's [Courant Institute](https://math.nyu.edu/dynamic/). I am interested in the application of probability and stochastic analysis to diverse problems. So far, this interest has taken me in two research directions. <br>
+Hello! I'm a math PhD candidate at New York University's [Courant Institute](https://math.nyu.edu/dynamic/). I am interested in the application of probability and stochastic analysis to diverse problems. So far, this interest has taken me in two research directions. <br>
 
 ## <strong> The Continuum Limit of Interacting Particle Systems</strong><br>
 
