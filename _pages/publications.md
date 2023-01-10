@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-- A. Katsevich, P. Rigollet. *On the Approximation Accuracy of Gaussian Variational Inference.* Available on [arxiv] (https://arxiv.org/abs/2301.02168)
+- A. Katsevich, P. Rigollet. *On the Approximation Accuracy of Gaussian Variational Inference.* Available on [arxiv](https://arxiv.org/abs/2301.02168)
 - A. Katsevich. *From local equilibrium to numerical PDE: Metropolis crystal surface dynamics in the rough scaling limit.* Accepted in SIAM Multiscale Modeling and Simulation. Available on [arXiv](https://arxiv.org/abs/2108.03527)
 - A. Katsevich. *The local equilibrium state of a crystal surface jump process in the rough scaling regime.* SIAM Multiscale Modeling and Simulation 20 (4): pp. 1315-1360 (2022). Available on [arXiv](https://arxiv.org/abs/2106.04652)
 - A. Katsevich, A. Bandeira. *Likelihood maximization and moment matching in low SNR Gaussian mixture models*. Communications on Pure and Applied Mathematics, 2022. Available on [arXiv](https://arxiv.org/abs/2006.15202)
