@@ -12,7 +12,7 @@ About me
 ======
 
 
-Hello! I'm a postdoc in the math department at MIT working with [Philippe Rigollet](https://math.mit.edu/~rigollet/), and am also affiliated with [IDSS](https://idss.mit.edu/). I obtained my PhD at the [Courant Institute](https://math.nyu.edu/dynamic/) at NYU, where I worked with <a href="https://cims.nyu.edu/~weare/">Jonathan Weare</a> and <a href="https://people.math.ethz.ch/~abandeira/">Afonso Bandeira</a> (now at ETH). I am interested in the application of probability and stochastic analysis to diverse problems ranging from the math of data science to interacting particle systems. See below for more on two of my research projects.   <br>
+Hello! I'm a postdoc in the [math](https://math.mit.edu/) department at MIT working with [Philippe Rigollet](https://math.mit.edu/~rigollet/), and am also affiliated with [IDSS](https://idss.mit.edu/). I obtained my PhD at the [Courant Institute](https://math.nyu.edu/dynamic/) at NYU, where I worked with <a href="https://cims.nyu.edu/~weare/">Jonathan Weare</a> and <a href="https://people.math.ethz.ch/~abandeira/">Afonso Bandeira</a> (now at ETH). I am interested in the application of probability and stochastic analysis to diverse problems ranging from the math of data science to interacting particle systems. See below for more on two of my research projects.   <br>
 
 ##  <strong>Low SNR Gaussian Mixture Models</strong><br>
   <img src="https://anyakatsevich.github.io/images/GMM_demo.png"
