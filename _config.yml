@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Anya Katsevich"
   avatar           : "websitepic2.jpeg"
-  bio              : "Postdoc in math at MIT//Email: akatsevi at mit dot edu"
+  bio              : "Postdoc in math at MIT"
   location         : "Cambridge, MA"
   cv               : #"https://anyakatsevich.github.io/files/CV_Anya_Katsevich.pdf"
-  employer         :
+  employer         : "Email: akatsevi at mit dot edu"
   pubmed           : 
   googlescholar    : #"https://scholar.google.com/citations?user=xC13Kb4AAAAJ&hl=en"
   email            : "katsevich@cims.nyu.edu"
