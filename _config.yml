@@ -88,7 +88,7 @@ author:
   employer         : "Email: akatsevi at mit dot edu"
   pubmed           : 
   googlescholar    : #"https://scholar.google.com/citations?user=xC13Kb4AAAAJ&hl=en"
-  email            : "katsevich@cims.nyu.edu"
+  email            : #"katsevich@cims.nyu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
