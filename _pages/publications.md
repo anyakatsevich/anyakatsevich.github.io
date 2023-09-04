@@ -4,7 +4,8 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-- A. Katsevich. *Tight skew adjustment to the Laplace approximation in high dimensions.* Available on [arXiv](https://arxiv.org/abs/2306.07262)  
+- A. Katsevich. *Tight skew adjustment to the Laplace approximation in high dimensions.* Available on [arXiv](https://arxiv.org/abs/2306.07262)
+- A. Katsevich. *Improved Scaling with Dimension in the Bernstein-von Mises Theorem for Two Statistical Models.* Avilable on [arXiv](https://arxiv.org/abs/2308.06899)
 - A. Katsevich. *Tight Dimension Dependence of the Laplace Approximation.* Available on [arXiv](https://arxiv.org/abs/2305.17604) 
 - A. Katsevich, P. Rigollet. *On the Approximation Accuracy of Gaussian Variational Inference.* Available on [arXiv](https://arxiv.org/abs/2301.02168)
 - A. Katsevich. *From local equilibrium to numerical PDE: Metropolis crystal surface dynamics in the rough scaling limit.* Accepted in SIAM Multiscale Modeling and Simulation. Available on [arXiv](https://arxiv.org/abs/2108.03527)
