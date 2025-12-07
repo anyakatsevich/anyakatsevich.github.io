@@ -85,11 +85,11 @@ author:
   bio              : #"Postdoc in math at MIT"
   location         : "Old Chem 216"
   cv               : #"https://anyakatsevich.github.io/files/CV_Anya_Katsevich.pdf"
-  employer         : #"Email: anya.katsevich at duke dot edu"
-  pubmed           : 
-  googlescholar    : #"https://scholar.google.com/citations?user=xC13Kb4AAAAJ&hl=en"
-  email            : "anya.katsevich at duke dot edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  employer         : "Email: anya.katsevich at duke dot edu"
+  pubmed           : "Email: anya.katsevich at duke dot edu"
+  googlescholar    : "Email: anya.katsevich at duke dot edu"
+  email            : #"anya.katsevich at duke dot edu"
+  researchgate     :  "Email: anya.katsevich at duke dot edu" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
