@@ -82,14 +82,14 @@ analytics:
 author:
   name             : "Anya Katsevich"
   avatar           : "websitepic2.jpeg"
-  bio              : #"Postdoc in math at MIT"
+  bio              : "Email: anya.katsevich at duke dot edu"
   location         : "Old Chem 216"
   cv               : #"https://anyakatsevich.github.io/files/CV_Anya_Katsevich.pdf"
-  employer         : "Email: anya.katsevich at duke dot edu"
-  pubmed           : "Email: anya.katsevich at duke dot edu"
-  googlescholar    : "Email: anya.katsevich at duke dot edu"
-  email            : #"anya.katsevich at duke dot edu"
-  researchgate     :  "Email: anya.katsevich at duke dot edu" # example: "https://www.researchgate.net/profile/yourprofile"
+  employer         : 
+  pubmed           : 
+  googlescholar    : 
+  email            : 
+  researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
