@@ -12,10 +12,13 @@ About me
 ======
 
 
-Hello! I'm an incoming assistant professor in Statistical Science at Duke. Previously, I was a postdoc in the math department at MIT and before that, I obtained my PhD in math at the Courant Institute at NYU.
+Hello! I'm an assistant professor in Statistical Science at Duke. Previously, I was a postdoc in the math department at MIT and before that, I obtained my PhD in math at the Courant Institute at NYU.
 <!--in the [math](https://math.mit.edu/) department at MIT working with [Philippe Rigollet](https://math.mit.edu/~rigollet/), and am also affiliated with [IDSS](https://idss.mit.edu/). I obtained my PhD at the [Courant Institute](https://math.nyu.edu/dynamic/) at NYU, where I worked with <a href="https://cims.nyu.edu/~weare/">Jonathan Weare</a> and <a href="https://people.math.ethz.ch/~abandeira/">Afonso Bandeira</a> (now at ETH).-->
 
-My research is on the theory of high-dimensional Bayesian inference and on how the theory informs computational methods. 
+My research is on asymptotic theory of high-dimensional Bayesian inference and on how the theory informs computational methods. I provide rigorous guarantees which characterize when and why classical approximation tools—such as Laplace’s method and Bernstein–von Mises theorems —remain accurate in modern high-dimensional regimes. These insights shed light on the design of scalable and reliable algorithms for modern data.
+ 
+My most recent work exploits asymptotic techniques to design more efficient rare event sampling methods. I am also interested in high-dimensional large deviations. 
+
 <!--In graduate school, I worked on discrete-to-continuum limits of interacting particle systems and on inference in low SNR Gaussian mixture models.-->
 
  
