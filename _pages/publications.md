@@ -4,6 +4,8 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+- Anya Katsevich, Alexander Katsevich. *Asymptotic analysis of rare events in high dimensions.* Available on [arXiv](https://arxiv.org/abs/2511.13559)
+- A. Katsevich, V. Spokoiny. *A unified theory of the high-dimensional Laplace approximation with application to Bayesian inverse problems.* Available on [arXiv](https://arxiv.org/abs/2509.07952)
 - A. Katsevich. *The Laplace asymptotic expansion in high dimensions.* Available on [arXiv](https://arxiv.org/abs/2406.12706)
 - A. Katsevich. *The Laplace approximation accuracy in high dimensions: a refined analysis and new skew adjustment.* Available on [arXiv](https://arxiv.org/abs/2306.07262)
 - A. Katsevich. *Improved dimension dependence in the Bernstein von Mises Theorem via a new Laplace approximation bound.* Information and Inference: A Journal of the IMA, accepted. Available on [arXiv](https://arxiv.org/abs/2308.06899)
